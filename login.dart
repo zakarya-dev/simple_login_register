@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:fpl/screens/register.dart';
+import 'register.dart';
 
 class Login extends StatefulWidget {
   const Login({Key? key}) : super(key: key);
